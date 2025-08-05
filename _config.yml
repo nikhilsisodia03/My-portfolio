@@ -1,0 +1,14 @@
+title: "Nikhil Sisodia | Portfolio"
+description: "Personal portfolio showcasing my projects, skills, and achievements"
+author: "Nikhil Sisodia"
+email: "nikkisisodia03@gmail.com"
+url: "https://github.com/nikhilsisodia03/My-portfolio"
+baseurl: ""   # keep empty since this is a user site
+
+# Optional: if you want RSS and SEO
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+lang: en
+timezone: Asia/dehradun
